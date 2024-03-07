@@ -14,6 +14,10 @@ N/A
 
 The webpage supplied was missing accessibility features within its prewritten code. I updated the code as laid out in the challenge instructions README file.
 
+![cap1](https://github.com/stephdilolle/challenge-1/assets/161002107/aa11f6af-02fc-492d-91e9-5c115f5d9112)
+
+![cap2](https://github.com/stephdilolle/challenge-1/assets/161002107/56d6ab4b-6923-478b-b5fe-f915cb3015af)
+
 ## Credits
 
 N/A
