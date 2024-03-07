@@ -4,6 +4,7 @@
 
 - I will complete the challenge by following the user story & acceptance criteria as laid out in the original README file
 - It is done when I have addressed and updated accessibility features within the starter code
+- Webpage link: https://stephdilolle.github.io/challenge-1/#search-engine-optimization
 
 
 ## Installation
